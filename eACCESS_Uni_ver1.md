@@ -1125,8 +1125,8 @@ table.TableGrid1
   text1;mso-themetint:191;mso-style-textfill-fill-color:#404040;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
   "lumm=75000 lumo=25000";text-decoration:none;text-underline:none'>Welcome to
-  “EU-Asia Collaboration for <span class=SpellE>aCcessible</span> Education in
-  Smart Power Systems (eACCESS)” Project</span></a><o:p></o:p></span></b></p>
+  Â“EU-Asia Collaboration for <span class=SpellE>aCcessible</span> Education in
+  Smart Power Systems (eACCESS)Â” Project</span></a><o:p></o:p></span></b></p>
   <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:150%;mso-outline-level:2'><b><span
   style='font-size:14.0pt;line-height:150%;mso-fareast-font-family:"Times New Roman";
@@ -1170,13 +1170,13 @@ table.TableGrid1
   12.0pt;margin-left:0in;text-align:justify;line-height:150%'><span
   style='font-size:20.0pt;line-height:150%'>Currently, the subjects which are
   central to help build modern power engineers are not available from the
-  project’s partner universities, and the content of current classes and the
+  projectÂ’s partner universities, and the content of current classes and the
   delivery mechanism does not meet students' expectations and challenges
   related to the transformation of the power sector.<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-top:12.0pt;margin-right:0in;margin-bottom:
   12.0pt;margin-left:0in;text-align:justify;line-height:150%'><span
   style='font-size:20.0pt;line-height:150%'>The consortium of seven European
-  and Asian partners has won total project funding of almost €1 million under
+  and Asian partners has won total project funding of almost Â€1 million under
   the competitive <a href="https://eacea.ec.europa.eu/erasmus-plus_en"><span
   style='color:windowtext;text-decoration:none;text-underline:none'>Erasmus+</span></a>
   Key Action 2 call. The consortium will develop and deliver state-of-the art
@@ -1400,7 +1400,7 @@ table.TableGrid1
   0in;margin-bottom:12.0pt;margin-left:.5in;mso-add-space:auto;text-align:justify;
   text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2'><![if !supportLists]><span
   style='font-size:20.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-size:20.0pt;line-height:150%'>WP2: Development and/or
   modernization of the electrical power engineering curriculum, modernization
@@ -1410,7 +1410,7 @@ table.TableGrid1
   0in;margin-bottom:12.0pt;margin-left:.5in;mso-add-space:auto;text-align:justify;
   text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2'><![if !supportLists]><span
   style='font-size:20.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-size:20.0pt;line-height:150%'>WP4: Development and modernization
   of teaching facilities. (T4.5: Equipment acquisition and installation at <span
@@ -1420,7 +1420,7 @@ table.TableGrid1
   margin-bottom:12.0pt;margin-left:.5in;mso-add-space:auto;text-align:justify;
   text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2'><![if !supportLists]><span
   style='font-size:20.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:
-  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
   style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
   style='font-size:20.0pt;line-height:150%'>WP6: Dissemination and Exploitation
   of Project Results (T6.3: Production &amp; dissemination of project
@@ -1528,7 +1528,7 @@ table.TableGrid1
   <p class=MsoNormal style='margin-top:12.0pt;margin-right:0in;margin-bottom:
   12.0pt;margin-left:0in;text-align:justify;line-height:150%'><span
   style='font-size:20.0pt;line-height:150%'><a href="https://eaccess-edu.eu/">eaccess-edu.eu/<span
-  style='mso-spacerun:yes'>  </span>(Project Website)</a><o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â  </span>(Project Website)</a><o:p></o:p></span></p>
   </td>
   <td width=317 valign=top style='width:237.95pt;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin-top:12.0pt;margin-right:0in;margin-bottom:
@@ -1616,8 +1616,8 @@ table.TableGrid1
   <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
   margin-bottom:12.0pt;margin-left:0in;text-align:center;line-height:150%'><!--[if mso & !supportInlineShapes & supportFields]><span
   style='mso-element:field-begin;mso-field-lock:yes'></span><span
-  style='mso-spacerun:yes'> </span>SHAPE <span
-  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  style='mso-spacerun:yes'>Â </span>SHAPE <span
+  style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:
   field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Rectangle_x0020_3"
    o:spid="_x0000_s1030" style='width:129.45pt;height:170.1pt;visibility:visible;
    mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
@@ -1913,8 +1913,8 @@ AACvMgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABgAGAH0BAACgMwAAAAA=
   <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
   margin-bottom:12.0pt;margin-left:0in;text-align:center;line-height:150%'><!--[if mso & !supportInlineShapes & supportFields]><span
   style='mso-element:field-begin;mso-field-lock:yes'></span><span
-  style='mso-spacerun:yes'> </span>SHAPE <span
-  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  style='mso-spacerun:yes'>Â </span>SHAPE <span
+  style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:
   field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Rectangle_x0020_15"
    o:spid="_x0000_s1029" style='width:123.45pt;height:126.85pt;visibility:visible;
    mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
@@ -2750,8 +2750,8 @@ dKsAAAAA
   <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
   margin-bottom:12.0pt;margin-left:0in;text-align:center;line-height:150%'><!--[if mso & !supportInlineShapes & supportFields]><span
   style='mso-element:field-begin;mso-field-lock:yes'></span><span
-  style='mso-spacerun:yes'> </span>SHAPE <span
-  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  style='mso-spacerun:yes'>Â </span>SHAPE <span
+  style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:
   field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Rectangle_x0020_16"
    o:spid="_x0000_s1028" style='width:135pt;height:170.1pt;visibility:visible;
    mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
@@ -2959,8 +2959,8 @@ oB8AAAAA
   <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
   margin-bottom:12.0pt;margin-left:0in;text-align:center;line-height:150%'><!--[if mso & !supportInlineShapes & supportFields]><span
   style='mso-element:field-begin;mso-field-lock:yes'></span><span
-  style='mso-spacerun:yes'> </span>SHAPE <span
-  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  style='mso-spacerun:yes'>Â </span>SHAPE <span
+  style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:
   field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="Rectangle_x0020_7"
    o:spid="_x0000_s1027" style='width:119pt;height:170.1pt;visibility:visible;
    mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
@@ -3156,8 +3156,8 @@ fQEAAPgcAAAAAA==
   <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
   margin-bottom:12.0pt;margin-left:0in;text-align:center;line-height:150%'><!--[if mso & !supportInlineShapes & supportFields]><span
   style='mso-element:field-begin;mso-field-lock:yes'></span><span
-  style='mso-spacerun:yes'> </span>SHAPE <span
-  style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:
+  style='mso-spacerun:yes'>Â </span>SHAPE <span
+  style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:
   field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect id="_x0000_s1026"
    style='width:142pt;height:170.1pt;visibility:visible;mso-wrap-style:square;
    mso-left-percent:-10001;mso-top-percent:-10001;mso-position-horizontal:absolute;
